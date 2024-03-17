@@ -1,0 +1,4 @@
+name: FirstPlugin
+version: '${project.version}'
+main: net.zipph.firstplugin.FirstPlugin
+api-version: '1.20'
